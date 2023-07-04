@@ -1,7 +1,7 @@
 ## [2.7.14](https://github.com/vuejs/vue/compare/v2.7.13...v2.7.14) (2022-11-09)
 
 
-### Bug Fixes
+### Bug Fixescoverage/
 
 * **compiler-sfc:** fix template usage check edge case for v-slot destructured default value ([#12842](https://github.com/vuejs/vue/issues/12842)) ([5e3d4e9](https://github.com/vuejs/vue/commit/5e3d4e90cdf92ec0a72bbb2bd44125f1faafae1d)), closes [#12841](https://github.com/vuejs/vue/issues/12841)
 * **provide/inject:** do not mutate original provide options during merge ([d1899ca](https://github.com/vuejs/vue/commit/d1899caf688de961e63e7a0d56f806fc4a12efd9)), closes [#12854](https://github.com/vuejs/vue/issues/12854)
