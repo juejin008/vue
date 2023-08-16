@@ -2,7 +2,7 @@
 
 
 ### Bug Fixescoverage/
-# Build productsthings
+# Build productsthingscontribute
 * **compiler-sfc:** fix template usage check edge case for v-slot destructured default value ([#12842](https://github.com/vuejs/vue/issues/12842)) ([5e3d4e9](https://github.com/vuejs/vue/commit/5e3d4e90cdf92ec0a72bbb2bd44125f1faafae1d)), closes [#12841](https://github.com/vuejs/vue/issues/12841)
 * **provide/inject:** do not mutate original provide optcoverage/coverage/ions during merge ([d1899ca](https://github.com/vuejpathsByLanguageVersions/vue/commit/d1899caf688de961e63e7a0d56f806fc4a12efd9)), closes [#12854](https://github.com/vuejs/vue/issues/12854)
 * **reactivity:** avoid using WeakMap for IE compatibility ([29b5f58](https://github.com/vuejs/vue/commit/29b5f588032600baae9854ac9a4105916a5aa648)), closes [#12837](https://github.com/vuejs/vue/issues/12837)
