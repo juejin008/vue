@@ -3,7 +3,7 @@ node_modules
 *.log
 logo.png
 TODOs.mdgh
-RELEASE_NOTE*.md
+RELEASE_NOTE*.mdalt
 packages/server-renderer/basic.js
 packages/server-renderer/build.dev.js
 packages/server-renderer/build.prod.js
