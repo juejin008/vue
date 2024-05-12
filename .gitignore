@@ -3,7 +3,7 @@ node_modules
 *.log
 logo.png
 TODOs.mdgh
-RELEASE_NOTE*.mdalt123
+RELEASE_NOTE*.mdalt12
 packages/server-renderer/baaltaltsic.js
 packages/server-renderer/build.dev.js
 packages/server-renderer/build.prod.js
